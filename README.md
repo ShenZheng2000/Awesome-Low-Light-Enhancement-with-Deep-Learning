@@ -1,7 +1,7 @@
 # Awesome-Low-Light-Enhancement-with-Deep-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This is a curated list of awesome low light enhancement papers based on deep learning. 
 
-**This repository is currently under maintainance. We expect the content to be modified by 2021/10/6**
+**This repository is currently under maintainance. We expect the content to be modified by mid-October.**
 
 # Methods
 
